@@ -12,6 +12,8 @@
 # SOP Deliverables 
 ## Data SOPs
 [Sensative Disposal](https://docs.google.com/document/d/19ezktvI7jzYjHco1kbj_ZqII6GtBUoLCxgQga74mvxM/edit)
+
+[Backup and Restore](https://docs.google.com/document/d/1yUAOnds44jMuBmivuZSBNC9--k7KAGbAkgEjiFBb6sw/edit)
 ## Customer Service SOPs
 [Purchase Requests](https://docs.google.com/document/d/1dkEb6aFkjOvofOXQ5wGpUnWItazkeJVR7gpUZ81exrU/edit)
 
@@ -22,3 +24,5 @@
 [Troubleshooting](https://docs.google.com/document/d/19tm31O6WiLMeRmgO1uSRyN4Q5CcOAs3ft8q_i5ZIAH0/edit)
 ## Networking SOPs
 [Cloud Services](https://docs.google.com/document/d/1iWXqaAL-bd10UFrVd0gKalNSVtBwTsUmKhf6o7QRNVs/edit)
+
+[Remote/Off-site Support](https://docs.google.com/document/d/1S2DtT6fytxlT1aZveO01Ji3fPKNfiAWbbnhzZzwj1ZY/edit)
