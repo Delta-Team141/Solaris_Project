@@ -14,7 +14,7 @@
 # SOP Deliverables 
 ### [SOP Template](https://docs.google.com/document/d/1yyYwDdL1-Uv639MBpW4BcHVQo4rFrtXnccLk-by1OfU/edit#heading=h.ubpkrrk9q74r)
 ## Data SOPs
-[Sensative Disposal(Sensative Disposal)](https://docs.google.com/document/d/19ezktvI7jzYjHco1kbj_ZqII6GtBUoLCxgQga74mvxM/edit)
+[Sensative Disposal(Alex)](https://docs.google.com/document/d/19ezktvI7jzYjHco1kbj_ZqII6GtBUoLCxgQga74mvxM/edit)
 
 [Backup and Restore (Kevin)](https://docs.google.com/document/d/1yUAOnds44jMuBmivuZSBNC9--k7KAGbAkgEjiFBb6sw/edit)
 ## Customer Service SOPs
