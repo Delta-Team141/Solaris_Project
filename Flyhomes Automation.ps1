@@ -5,7 +5,7 @@
 # Date of latest revision:      20221205
 # Purpose:      Automate Employee Onboarding Process
 
-$name= Read-Host -Prompt "Enter Employee Name:"
+$name= Read-Host -Prompt "Enter Employee Name"
 
 md C:\Users\sytyg\Desktop\$name
 md C:\Users\sytyg\Desktop\$name\Shipping
