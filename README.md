@@ -20,7 +20,7 @@
 ## Customer Service SOPs
 [Purchase Requests (Jenae)](https://docs.google.com/document/d/1dkEb6aFkjOvofOXQ5wGpUnWItazkeJVR7gpUZ81exrU/edit)
 
-[Engagements/Interactions (Gregg)](https://docs.google.com/document/d/1phYLlFpJL8N8DXd89oq2V7XgV0Tgidt8HQgmybefweU/edit)
+[Engagements/Interactions (Kevin/Jenae)](https://docs.google.com/document/d/1phYLlFpJL8N8DXd89oq2V7XgV0Tgidt8HQgmybefweU/edit)
 ## Technical SOPs 
 [Employee Onboard (Jenae)](https://docs.google.com/document/d/1m6ht5XgES9II17QGAa4GYNY6wq8g0PnpM_65ATme71k/edit)
 
@@ -36,4 +36,4 @@
 
 [Remote/Off-site Support (Kevin)](https://docs.google.com/document/d/1S2DtT6fytxlT1aZveO01Ji3fPKNfiAWbbnhzZzwj1ZY/edit)
 
-[Network Security Protocols (Gregg)](https://docs.google.com/document/d/1P5prPpa2S7Vh20PTMivunDhCExxUWozDYPl69krqM-c/edit)
+[Network Security Protocols (Kevin)](https://docs.google.com/document/d/1P5prPpa2S7Vh20PTMivunDhCExxUWozDYPl69krqM-c/edit)
