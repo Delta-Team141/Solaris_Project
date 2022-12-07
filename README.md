@@ -30,7 +30,7 @@
 
 [Win10 Malware/Data Loss Mitigation (Kevin)](https://docs.google.com/document/d/1smCnEwxxMnwwedi3wLnNOSHP0ClCwQJIEmEnwiMRi_U/edit)
 
-[Windows Administration and Support (Gregg)](https://docs.google.com/document/d/1OSKWWi-JtRlgAgmEXVn5VGPLGPVFuI_5GbBr-RMEhh0/edit)
+[Windows Administration and Support (Alex)](https://docs.google.com/document/d/1OSKWWi-JtRlgAgmEXVn5VGPLGPVFuI_5GbBr-RMEhh0/edit)
 ## Networking SOPs
 [Cloud Services (Alex)](https://docs.google.com/document/d/1iWXqaAL-bd10UFrVd0gKalNSVtBwTsUmKhf6o7QRNVs/edit)
 
